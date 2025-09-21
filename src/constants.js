@@ -163,7 +163,7 @@ export const SkillsInfo = [
       id: 0,
       title: " INSTA CLONE! 🌟",
       description:
-       "InstaClone is a full-stack social media application inspired by Instagram, featuring secure user authentication, dynamic post creation and deletion, and real-time chat between users. The app includes seamless media uploads via Cloudinary, efficient state management with Context API and React Hooks, and a responsive, user-friendly interface, delivering a cohesive and interactive social experience.",  
+       "InstaClone is a full-stack social media application inspired by Instagram, featuring secure user authentication, dynamic post creation and deletion, and real-time chat between users. The app includes seamless media uploads via Cloudinary, user-friendly interface, delivering a cohesive and interactive social experience.",  
       image: Instagram,
       tags: ["MongoDB",
   "Express.js",
@@ -201,7 +201,7 @@ export const SkillsInfo = [
       id: 2,
       title: " Wanderlust 🌟",
       description:
-      "Wanderlust is a full-stack platform that allows travelers to create, explore, and manage listings seamlessly. The app features secure user authentication, dynamic CRUD operations, intuitive navigation, and a responsive, user-friendly interface. Integrated with Cloudinary for efficient image handling, it provides a cohesive and practical web application experience.",
+      "Wanderlust is a full-stack platform that allows travelers to create, explore, and manage listings seamlessly. The app features secure user authentication, dynamic CRUD operations, and a responsive, user-friendly interface. Integrated with Cloudinary for efficient image handling, it provides a cohesive and practical web application experience.",
        image: githubgapsapLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API","REACT.JS","EXPRESS.JS","NODE.JS","MONGODB"],
       github: "https://github.com/sproul2005/WANDERLUST.git",
@@ -212,7 +212,7 @@ export const SkillsInfo = [
       id: 3,
       title: "Job Portal",
       description:
-       "A MERN Stack Job Portal connecting job seekers and recruiters. Features secure signup/login with JWT, candidate profile management, job browsing and saving, application tracking, and a recruiter/admin dashboard for managing companies, job postings, and applicants. Provides a responsive and user-friendly interface for a seamless hiring experience.",
+       "A MERN Stack Job Portal connecting job seekers and recruiters. Features secure signup/login with JWT, candidate profile management, job browsing and saving, application tracking, and a recruiter dashboard for managing companies, job postings, and applicants. Provides a responsive and user-friendly interface for a seamless hiring experience.",
      image: JobPortal,
       tags: [  "HTML", "CSS", "JavaScript", "MongoDB",
   "Express.js",
@@ -232,7 +232,7 @@ export const SkillsInfo = [
       id: 4,
       title: "AI Virtual Assistant",
       description:
-         "A full-stack Virtual Assistant application that interacts with users through voice and text. Features include user authentication, dynamic home page responses, Cloudinary integration for media handling, and seamless speech recognition and text-to-speech functionality. The app also supports customized assistant settings and optimized response handling, providing an intuitive and interactive user experience.",
+         "A full-stack Virtual Assistant application that interacts with users through voice. Features include user authentication, dynamic home page responses, Cloudinary integration for media handling, and seamless speech recognition. The app also supports customized assistant settings and optimized response handling, providing an interactive user experience.",
      image: AiVoiceAssistant,
       tags: ["MongoDB",
   "Express.js",
