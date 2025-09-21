@@ -182,7 +182,7 @@ export const SkillsInfo = [
       id: 1,
       title: "MEDIMEET",
        description:
-      "A full-stack Doctors Appointment application with video call functionality, connecting patients and doctors seamlessly. Features include secure user authentication, doctor onboarding, subscription plans, appointment booking, cancelation, notes management, and real-time video calls powered by Vonage. The app also includes an admin dashboard for managing users and appointments, offering a responsive and intuitive interface for a complete healthcare experience.",
+      "A full-stack Doctors Appointment application with video call functionality, connecting patients and doctors seamlessly. Features include secure user authentication, doctor onboarding, subscription plans, appointment booking, cancelation, notes management. The app also includes an admin dashboard for managing users and appointments, offering a responsive interface for a complete healthcare experience.",
       image: medimeet,
       tags: ["Next.js",
   "React.js",
